@@ -1,4 +1,5 @@
-# Formal-Methods-Blockchain 
+# Formal-Methods-Blockchain ![](https://img.shields.io/badge/-Live-brightgreen)
+![](https://img.shields.io/badge/Focus-Blockchain-yellow) ![](https://img.shields.io/badge/Focus-Smart_Contracts-yellow)
 
 # Languages 
   - Ethereum
