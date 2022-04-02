@@ -1,32 +1,50 @@
-# Formal-Methods-Blockchain ![](https://img.shields.io/badge/-Live-brightgreen)
-![](https://img.shields.io/badge/Focus-Blockchain-yellow) ![](https://img.shields.io/badge/Focus-Smart_Contracts-yellow)
+# Formal Methods and Verification of Blockchain Consensus and Smart Contracts ![](https://img.shields.io/badge/-Live-brightgreen)
+![](https://img.shields.io/badge/Batch-Ph.D-green) <br/>
+![](https://img.shields.io/badge/Focus-Blockchain-yellow) ![](https://img.shields.io/badge/Focus-Smart_Contracts-yellow) ![](https://img.shields.io/badge/Focus-Languages-yellow) ![](https://img.shields.io/badge/Focus-DASP-yellow) ![](https://img.shields.io/badge/Focus-SWC-yellow) <br/>
+![](https://img.shields.io/badge/Blockchain-Ethereum-blue) ![](https://img.shields.io/badge/Blockchain-Hyperledger-blue) ![](https://img.shields.io/badge/Blockchain-Cardano-blue) ![](https://img.shields.io/badge/Blockchain-Solana-blue) ![](https://img.shields.io/badge/Blockchain-Tezos-blue)
+
+# Organisations
+ - [SECBIT Labs](https://secbit.io/about.html)
+    - [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs)
+    - [Formal Verification for Decentralized Exchange](https://github.com/sec-bit/loopring-protocol2-verification)
+    - [Security Audit for the First zkRollup DEX Protocol](https://github.com/Loopring/protocols/tree/d528ab83c9934a4d54e4a3ceefa20ba7908ebe25/packages/loopring_v3/security_audit)
+
+# Formal Verification Tools
+ - [Coq - Proof Assistant](https://coq.inria.fr/)
+ - [Isabelle](https://isabelle.in.tum.de/)
+ - [HOL Light](https://www.cl.cam.ac.uk/~jrh13/hol-light/index.html)
+ - [Agda](https://plfa.inf.ed.ac.uk/)
+ - [λ-Calculus](https://jacksongl.github.io/files/demo/lambda/index.htm)
+
+# Formal Verified Blockchain Ecosystem
+ - [KEVEM]() - K Semantics of the Ethereum Virtual Machine 
 
 # Languages 
-  - Ethereum
+  - **Ethereum**
     - Solidity
     - Vyper 
     - Yul
     - FE
-  - Hyperledger
+  - **Hyperledger**
     - Go
-    - Obsidian
-  - Cardano
+    - [Obsidian](https://obsidian-lang.com/)
+  - **Cardano**
     - Marlowe
     - Plutus
-  - Solana
+  - **Solana**
     - Rust
     - C
-  - Libra/Calibra
+  - **Libra/Calibra**
     - Move
-  - Tezos 
+  - **Tezos** 
     - Michelson
-  - RChain
+  - **RChain**
     - Rholang
-  - Aeternity
+  - **Aeternity**
     - Sophia 
-  - Stratis
+  - **Stratis**
     - C#
-  - Aergo
+  - **Aergo**
     - Lua
     - SCL
   - DAML
