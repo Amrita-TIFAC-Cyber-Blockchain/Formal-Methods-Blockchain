@@ -3,6 +3,12 @@
 ![](https://img.shields.io/badge/Focus-Blockchain-yellow) ![](https://img.shields.io/badge/Focus-Smart_Contracts-yellow) ![](https://img.shields.io/badge/Focus-Languages-yellow) ![](https://img.shields.io/badge/Focus-DASP-yellow) ![](https://img.shields.io/badge/Focus-SWC-yellow) <br/>
 ![](https://img.shields.io/badge/Blockchain-Ethereum-blue) ![](https://img.shields.io/badge/Blockchain-Hyperledger-blue) ![](https://img.shields.io/badge/Blockchain-Cardano-blue) ![](https://img.shields.io/badge/Blockchain-Solana-blue) ![](https://img.shields.io/badge/Blockchain-Tezos-blue)
 
+# PhD Thesis and Conferences
+ - [Stefano Lande - Formal Methods for Secure Bitcoin Smart Contracts - Universita degli Studi di Cagliari](Assets/Thesis/PhD_Formal_Methods_for_Secure_Bitcoin.pdf)
+ - Workshop on Formal Methods for Blockchains
+   - [2019](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Proceedings_Formal_Methods_for_Blockchains.pdf)
+   - [2020 - Formal Specification and Model Checking of the Tendermint Blockchain Synchronization Protocol](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Formal_Specification_and_Model_Checking_of_the_Tendermint_Blockchain_Synchronization_Protocol.pdf)
+
 # Organisations
  - [SECBIT Labs](https://secbit.io/about.html)
     - [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs)
