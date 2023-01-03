@@ -17,7 +17,7 @@
     - [Formal Verification for Decentralized Exchange](https://github.com/sec-bit/loopring-protocol2-verification)
     - [Security Audit for the First zkRollup DEX Protocol](https://github.com/Loopring/protocols/tree/d528ab83c9934a4d54e4a3ceefa20ba7908ebe25/packages/loopring_v3/security_audit)
     
-## Literature Survey
+## Bibliometric Analysis and Literature Survey
 [Click Here](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/) to view.
 
 ## Model Formalisms, Specification and Verification
@@ -80,6 +80,9 @@
   
 ## Formal Verified Blockchain Ecosystem
  - [KEVEM]() - K Semantics of the Ethereum Virtual Machine 
+ 
+## Amrita Blockchain and Distributed - Vulnerability Tracker (ABCD - VT)
+[Click Here](https://amrita-tifac-cyber-blockchain.github.io/ABC-VT/) to view.
 
 ## References
  - [Research Publications and Thesis](https://github.com/ramagururadhakrishnan/Blockchain-Papers/tree/main/Formal_Methods)
